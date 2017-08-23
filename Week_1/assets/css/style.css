@@ -1,0 +1,43 @@
+* {
+	align-content: center;
+	width: 960px;
+ 	box-sizing: border-box;
+ 	text-align: center;
+ 	margin: 20%;
+}
+
+header {
+  padding: 10px;
+  margin-bottom: 20px;
+  color: #333;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  background: #ccc;
+}
+
+body {
+	background: grey;
+	color: #777777;
+}
+
+#Main_Section
+{
+	padding: 30%;
+	background: #ffffff;
+	border-color: #dddddd;
+	overflow:auto;
+}
+
+#Header_Name
+{
+	padding: 30px;
+	width:33.3%;
+	overflow:auto;
+	background: #ffffff;
+	border-color: #cccccc;
+
+}
+
+footer{
+	background: #666666;
+	align-content: center
+}
